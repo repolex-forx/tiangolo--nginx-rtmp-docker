@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "tiangolo",
+  "repo": "nginx-rtmp-docker",
+  "versions": [
+    {
+      "commit": "ff589ceb6234ddd4976e488cd9ac08a06ac9fb16",
+      "parsed_at": "2026-10-10T13:03:28.400321+00:00",
+      "filetree": "filetree/ff589ceb6234ddd4976e488cd9ac08a06ac9fb16.nq.gz",
+      "blobs": [
+        "blob/6c628b80228fb629d44ce73d34021ae9d46ef05b.nq.gz",
+        "blob/5422101c72c9367b86e88c93f429d74f4448520d.nq.gz",
+        "blob/1b2851346eb59a250fe5f88874266f28acadcc24.nq.gz",
+        "blob/723e721673ec99598c7a299159bb74896ca5fb2e.nq.gz",
+        "blob/a7f12511f60ac7e3c1b2828a4370d128fbe79c08.nq.gz",
+        "blob/797ef0bcef05ed72b71a2e7291c6d469d1106f2b.nq.gz",
+        "blob/1ab6a93ad5001f074bfe7866335e7c4c35365bca.nq.gz",
+        "blob/b1f6ed41fb95b2e566ba206fee9f22347803812d.nq.gz",
+        "blob/a2a59ce0ac1a5f26072ffa927c5242d50e73be87.nq.gz",
+        "blob/841ac4900b75dc2f971db7c3acfccb03c0c6a205.nq.gz",
+        "blob/a09ee31711a17dd2fc97f33ca4b9f4246496a093.nq.gz",
+        "blob/93a8da2063766c1e97e2ef15caab90ceeff6b46a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
