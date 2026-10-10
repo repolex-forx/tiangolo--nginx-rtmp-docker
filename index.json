@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "nginx-rtmp-docker",
+  "versions": [
+    {
+      "commit": "ff589ceb6234ddd4976e488cd9ac08a06ac9fb16",
+      "tag": "",
+      "parsed_at": "2026-10-10T13:08:21.366243+00:00"
+    }
+  ]
+}
